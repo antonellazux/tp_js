@@ -13,6 +13,8 @@ for (frutitas of inicio){
 //#endregion
 
 //#region 
+suma= num1+num2;
+    return suma;
 //#endregion
 
 //#region 
