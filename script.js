@@ -7,6 +7,9 @@ let num2=6;
 //#endregion
 
 //#region 
+for (frutitas of inicio){
+    console.log();
+}
 //#endregion
 
 //#region 
