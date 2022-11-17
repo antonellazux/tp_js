@@ -18,4 +18,7 @@ suma= num1+num2;
 //#endregion
 
 //#region 
+    console.log(frutitas);
+    console.log(nombre);
+    console,log(suma);
 //#endregion
